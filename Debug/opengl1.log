@@ -1,2 +1,10 @@
 ﻿  text.cpp
+F:\vs workspace\opengl1\text.cpp(162): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\vs workspace\opengl1\text.cpp(276): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\vs workspace\opengl1\text.cpp(277): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\vs workspace\opengl1\text.cpp(281): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\vs workspace\opengl1\text.cpp(282): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\vs workspace\opengl1\text.cpp(284): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\vs workspace\opengl1\text.cpp(285): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\vs workspace\opengl1\text.cpp(294): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
   opengl1.vcxproj -> F:\vs workspace\opengl1\Debug\opengl1.exe
